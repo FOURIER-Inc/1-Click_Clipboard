@@ -1,0 +1,37 @@
+# 1-Click Clipboard
+
+## chrome_native_messaging
+
+https://github.com/neon64/chrome-native-messaging
+
+Apache License, Version 2.0 (LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0)
+MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
+
+## clipboard
+
+https://github.com/aweinstock314/rust-clipboard
+
+Apache License, Version 2.0 (LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0)
+MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
+
+## serde
+
+https://github.com/serde-rs/serde
+
+Apache License, Version 2.0 (LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0)
+MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
+
+## serde_json
+
+https://github.com/serde-rs/json
+
+Apache License, Version 2.0 (LICENSE-APACHE or http://www.apache.org/licenses/LICENSE-2.0)
+MIT license (LICENSE-MIT or http://opensource.org/licenses/MIT)
+
+# 1-Click Clipboard Installer
+
+## Inno Setup
+
+https://jrsoftware.org/isinfo.php
+
+Inno Setup License (https://jrsoftware.org/files/is/license.txt))
